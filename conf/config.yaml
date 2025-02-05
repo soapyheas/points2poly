@@ -16,7 +16,8 @@ gt_dir: '${root_dir}/datasets/${dataset_name}/03_meshes'
 
 # download settings
 url_datasets: {'helsinki_mini': 'https://drive.google.com/uc?export=download&id=1mzbNNrGtbbbu7-mG2FrRRRdDZ9P5jDDK'}
-url_models: {'helsinki_fullview': 'https://drive.google.com/uc?export=download&id=1t1yQ7b0mME6EBlEa1CLAHJC_pcKQxZkW'}
+url_models: {'helsinki_fullview': 'https://drive.google.com/uc?export=download&id=1t1yQ7b0mME6EBlEa1CLAHJC_pcKQxZkW',
+            'helsinki_nobottom': 'https://drive.google.com/uc?export=download&id=1e08yCZD-PD4ykRvHC1W7PPxPunDV8Hwx'}
 
 # abspy settings
 normalise: false
